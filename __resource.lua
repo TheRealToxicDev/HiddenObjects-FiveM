@@ -1,4 +1,4 @@
-description 'Object Concealer'
+description 'Hidden Objects'
 version '0.0.1'
 
 server_script 'server/hidden.lua'
